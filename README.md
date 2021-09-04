@@ -1,4 +1,4 @@
-# https://www.youtube.com/watch?v=HJ9bECmuwKo
+
 # Running docker app and proxy with nginx
 
 sudo docker-compose build
