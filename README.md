@@ -1,5 +1,5 @@
 
-# Running docker app and proxy with nginx
+# Running docker app and proxy with Nginx
 
 sudo docker-compose build
 sudo docker-compose up
